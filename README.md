@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @patelmilan2912
-- 👀 I’m interested in learning React.
-- 🌱 I’m currently learning React and building reusable components.
-- 💞️ I’m looking to collaborate on small React Projects. 
+- 👀 I’m a Dynamics 365 + MS Power Platform Developer.
 - 📫 You can reach out to me at patelmilan2912@gmail.com
 
 <!---
